@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>launch_app_browserStack</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d07ed86a-2e23-4f59-90be-a22f8a7194a2</testCaseGuid>
+</TestCaseEntity>
